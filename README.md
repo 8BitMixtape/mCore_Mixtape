@@ -6,4 +6,7 @@ A minimal barebone PCB for making your own 8Bit Mixtape and custom interface
 # Gerber files v0.3 ready for manufacturing
 ![](mCore_Mixtape_PCB.png)
 
+# See/order on Kitspace
+![](mCore_on_Kitspace.png)
+
 

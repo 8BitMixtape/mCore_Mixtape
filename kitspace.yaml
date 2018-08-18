@@ -1,0 +1,4 @@
+summary: A minimal barebone PCB for making your own 8Bit Mixtape and custom interface
+site: http://8bitmixtape.cc/
+bom: bom.csv
+color: purple
